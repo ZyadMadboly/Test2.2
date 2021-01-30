@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609369035 source:d:\c\programes\multi calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
