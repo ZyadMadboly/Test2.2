@@ -4,6 +4,7 @@ int main()
 {
     char cc,RE;
     int o;
+    printf("Iam Zeiad");
     printf("\t Multi Calculator \n\n");
     RE:
     printf(" Select a calculator \n\n");
